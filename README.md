@@ -27,7 +27,7 @@
 - [crowdme](https://mishelinus.github.io/crowdme/)
 - [crowdme](https://mishelinus.github.io/crowdme/)
 - [Mogo_free](https://mishelinus.github.io/Mogo_free/)
-- [jetro](https://mishelinus.github.io/jetro/)
+- [jetro](https://mishelinus.github.io/jetro/){:target="_blank" rel="noopener"}
 
 # Some markdown
 *click below*
