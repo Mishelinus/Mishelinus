@@ -13,7 +13,7 @@
 
 ## Обучение
 - HTML Academy 
-- профессия **Frontend разработчик**
+- профессия [**Frontend разработчик** ](https://htmlacademy.ru/profession/frontender)
 - Сентябрь 2021 - текущее время
 - **HTML**
 - **CSS**
@@ -22,7 +22,8 @@
 
 ## Портфолио
 **Вёрстка**
-- [RunSmart](https://mishelinus.github.io/RunSmart/)
+- [HTML Academy: Интернет магазин «Nёrds»](mishelinus.github.io/nerds/)
+- [RunSmart - Интернет магазин пульсометров](https://mishelinus.github.io/RunSmart/)
 - [jetro](https://mishelinus.github.io/jetro/)
 - [crowdme](https://mishelinus.github.io/crowdme/)
 - [crowdme](https://mishelinus.github.io/crowdme/)
