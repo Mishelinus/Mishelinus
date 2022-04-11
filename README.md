@@ -24,10 +24,10 @@
 **Вёрстка**
 - [HTML Academy: Интернет магазин «Nёrds»](mishelinus.github.io/nerds/)
 - [RunSmart - Интернет магазин пульсометров](https://mishelinus.github.io/RunSmart/)
-- [jetro](https://mishelinus.github.io/jetro/)
 - [crowdme](https://mishelinus.github.io/crowdme/)
 - [crowdme](https://mishelinus.github.io/crowdme/)
 - [Mogo_free](https://mishelinus.github.io/Mogo_free/)
+- [jetro](https://mishelinus.github.io/jetro/)
 
 
 <!--
