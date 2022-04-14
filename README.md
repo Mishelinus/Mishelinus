@@ -22,7 +22,7 @@
 
 ## Портфолио
 **Вёрстка**
-- [HTML Academy: Интернет магазин «Nёrds»](mishelinus.github.io/nerds/)
+- [HTML Academy: Интернет магазин «Nёrds»](https://mishelinus.github.io/nerds/)
 - [RunSmart - Интернет магазин пульсометров](https://mishelinus.github.io/RunSmart/)
 - [crowdme](https://mishelinus.github.io/crowdme/)
 - [Mogo_free](https://mishelinus.github.io/Mogo_free/)
