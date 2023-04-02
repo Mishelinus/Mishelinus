@@ -4,7 +4,7 @@
 
 ## Контактная информация
 
-- **tel** — <a href="tel:+79788600242">+7 978 860 02 42</a>
+- **tel** — <a href="tel:+79788600242">+7 978*860*02*42</a>
 - **mail** — <a href="mailto:mishelin06@yandex.ru">mishelin06@yandex.ru</a>
 - **VK** - <a href="https://vk.com/mishelinus007">Серов Михаил</a>
 - **telegram** - <a href="https://t.me/Mishelinus007">@Mishelinus007</a>
